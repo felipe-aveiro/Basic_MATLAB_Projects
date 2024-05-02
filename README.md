@@ -1,5 +1,5 @@
 # Linear Algebra and Analytic Geommetry Projects
-<img src="https://www.freewebheaders.com/gc-mathematics-800x200/white-math-equations-colorful-graphics-black-mathematics-banner_gc-banner-800x200_249237.jpg" alt="Math" width="auto" height="auto">
+&nbsp; <img src="https://www.freewebheaders.com/gc-mathematics-800x200/white-math-equations-colorful-graphics-black-mathematics-banner_gc-banner-800x200_249237.jpg" alt="Math" width="auto" height="auto">
 
 ## Welcome to my <em>Linear Algebra and Analytic Geommetry</em> Projects repository!
 In this MATLAB project repository, you will find materials related to projects completed during my academic journey in Mechanical Engineering. Theses projects focuses solely on the principles and applications of Linear Algebra and Analytic Geometry within the context of engineering studies.
